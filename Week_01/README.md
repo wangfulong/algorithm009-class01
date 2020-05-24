@@ -2,24 +2,24 @@
 ### 数组｜链表｜跳表
 #### 练习题目
 ##### Array
-1. 两数之和
-11. 盛最多水的容器
-283. 移动零
-70. 爬楼梯
-15. 三数之和
-26. 删除排序数组中的重复项
-189. 旋转数组
-88. 合并两个有序数组
-66. 加一
+- 1. 两数之和
+- 11. 盛最多水的容器
+- 283. 移动零
+- 70. 爬楼梯
+- 15. 三数之和
+- 26. 删除排序数组中的重复项
+- 189. 旋转数组
+- 88. 合并两个有序数组
+- 66. 加一
 
 ##### Linked List
-21. 合并两个有序链表
-206. 反转链表 - Reverse Linked List
-24. 两两交换链表中的节点 - Swap Nodes in Pairs
-141. 环形链表 - Linked List Cycle
-142. 环形链表 II - Linked List Cycle II
-146. [LRU Cache - Linked list： LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
-25. K 个一组翻转链表 - Reverse Nodes in k-Group
+- 21. 合并两个有序链表
+- 206. 反转链表 - Reverse Linked List
+- 24. 两两交换链表中的节点 - Swap Nodes in Pairs
+- 141. 环形链表 - Linked List Cycle
+- 142. 环形链表 II - Linked List Cycle II
+- 146. [LRU Cache - Linked list： LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+- 25. K 个一组翻转链表 - Reverse Nodes in k-Group
 #### 扩展知识
 - [Java 源码分析（ArrayList）](http://developer.classpath.org/doc/java/util/ArrayList-source.html)
 - [Linked List 的标准实现代码](https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/)
@@ -29,13 +29,13 @@
 
 ### 栈 ｜ 队列 ｜ 优先队列 ｜ 双端队列
 #### 练习题目
-20. 有效的括号
-155. 最小栈
-84. 柱状图中最大的矩形
-239. 滑动窗口最大值
-622. 设计循环队列 
-641. 设计循环双端队列 - Design Circular Deque
-42. 接雨水 - Trapping Rain Water
+- 20. 有效的括号
+- 155. 最小栈
+- 84. 柱状图中最大的矩形
+- 239. 滑动窗口最大值
+- 622. 设计循环队列 
+- 641. 设计循环双端队列 - Design Circular Deque
+- 42. 接雨水 - Trapping Rain Water
 #### 扩展知识
 
 - [Java 的 PriorityQueue 文档](https://docs.oracle.com/javase/10/docs/api/java/util/PriorityQueue.html)
